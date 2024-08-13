@@ -1,0 +1,18 @@
+{
+  "name": "calenda_event_law",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "googleapis": "^105.0.0"
+  }
+}
